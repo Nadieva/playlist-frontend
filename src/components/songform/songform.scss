@@ -1,0 +1,35 @@
+:root {
+  --margin-bottom: 10px;
+  --input-margin-left: 10px;
+  --label-padding-left: 40px;
+}
+
+form {
+  .row {
+    display: table;
+  }
+}
+
+div {
+  .row {
+    display: table-row;
+  }
+  button,
+  input {
+    margin-left: var(--label-padding-left);
+  }
+}
+
+label,
+input {
+  display: table-cell;
+  margin-bottom: var(--margin-bottom);
+}
+
+input {
+  margin-left: var(--input-margin-left);
+}
+
+label {
+  padding-left: var(--label-padding-left);
+}

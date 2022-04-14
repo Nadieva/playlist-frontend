@@ -1,7 +1,8 @@
 # Playlist-frontend
 
 User creates their song playlist. They fill in a form to do so.
-You can have a look at the project on https://playlist-frontend.netlify.app
+You can have a look at the project on https://playlist-frontend.netlify.app [THE WEBSITE IS NOT WORKING]
+
 
 The project is made of two parts:
 
